@@ -8,7 +8,8 @@
 
 
 ### 🚀 I’m currently working on:
-- GenAI  
+- GenAI
+- Agentic AI
 - Google Cloud Skills  
 - Machine Learning  
 - **Goal:** Learning new skills in Data Science, Big Data, and GenAI  
