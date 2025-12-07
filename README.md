@@ -12,10 +12,7 @@
 - Google Cloud Skills  
 - Machine Learning  
 - **Goal:** Learning new skills in Data Science, Big Data, and GenAI  
-- **Fun fact:** I love talking to books! Check out my Instagram book page:  
-  <a href="https://instagram.com/the_silly_notebook" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_silly_notebook" height="30" width="40">
-  </a> **the_silly_notebook**
+- **Fun fact:** I love talking to books! Check out my Instagram book page: <a href="https://instagram.com/the_silly_notebook" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_silly_notebook" height="30" width="40"> </a> **the_silly_notebook**
 
 <h3 align="left">📜 Professional Certifications</h3>
 
