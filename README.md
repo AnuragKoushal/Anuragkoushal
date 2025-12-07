@@ -18,12 +18,27 @@ I excel in leading cross-functional teams, collaborating with stakeholders, and 
 - **Goal:** Learning new skills in Data Science, Big Data, and GenAI  
 - **Fun fact:** I love talking to books! Check out my Instagram book page: <a href="https://instagram.com/the_silly_notebook" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_silly_notebook" height="30" width="40"> </a> **the_silly_notebook**
 
-<h3 align="left">📜 Professional Certifications</h3>
+<span style="font-size: 3em; font-weight: 700;">
+  <strong>📜 Professional Certifications</strong>
+</span>
+&nbsp;|&nbsp;
+<a href="https://github.com/AnuragKoushal/Professional_Certifications" target="_blank">
+  Certifications Repo
+</a>
 
-Explore my collection of certifications in Data Science, Machine Learning, Cloud, and more in this dedicated repository:  
-🔗 <a href="https://github.com/AnuragKoushal/Professional_Certifications" target="_blank">Professional Certifications Repository</a>
+<br><br>
+<span style="font-size: 10em; font-weight: 700;">
+  <strong>📖 Research Paper Publications</strong>
+</span>
+&nbsp;|&nbsp;
+<a href="https://scholar.google.co.in/citations?user=GTY0ZqgAAAAJ&hl=en" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" 
+       alt="Google Scholar" width="20" height="20"
+       style="vertical-align: middle;"/>
+  Google Scholar
+</a>
 
-<h3 align="left">📖 Research Paper Publications</h3>
+
 
 1. Performance Analysis of Photovoltaic System Under Thermal Conditions  
 2. Modelling & Analysis of Adaptive Fuzzy Controller for the Fuel Cell System  
