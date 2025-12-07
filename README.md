@@ -4,8 +4,11 @@
 
 <h2 align="center">A Data Science and Machine Learning Enthusiast</h2><h5 align="center">(and secretly wish to be called a Data Magician!! 😁)</h5>
 
+As a seasoned professional, I am passionate about driving growth and enabling institutions to thrive in the digital era. With a strong background in analyzing market trends, identifying business opportunities, and developing innovative strategies, I bring a data-driven approach to optimizing processes and enhancing customer experiences.
 
+Along with my expertise in Analytics & Decision Science, I am a Certified GenAI Professional and have been building hands-on skills in LLMOps through personal projects. This enables me to leverage cutting-edge AI technologies to deliver scalable insights across FinTech, MarTech, and MarSci domains.
 
+I excel in leading cross-functional teams, collaborating with stakeholders, and translating business requirements into actionable insights. By combining an analytical mindset with emerging technologies, I guide organizations in making informed decisions, optimizing operations, and achieving sustainable business outcomes.
 
 ### 🚀 I’m currently working on:
 - GenAI
